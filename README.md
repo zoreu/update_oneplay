@@ -1,2 +1,2 @@
 # update_oneplay
-update do addon oneplay
+update do addon oneplay, somente pasta libs
