@@ -1,1 +1,1 @@
-url=""
+url="https://github.com/zoreu/update_oneplay/raw/main/oneplayteste.zip"
