@@ -1,2 +1,2 @@
-addon_id = "One.repo"
+id = "One.repo"
 url = "https://github.com/OnePlayHD/OneRepo/raw/master/matrix/One.repo/One.repo-1.07.zip"
