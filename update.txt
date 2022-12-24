@@ -1,1 +1,1 @@
-url="https://github.com/zoreu/update_oneplay/raw/main/libs_oneplay_13_12_2022.zip"
+url="https://github.com/zoreu/update_oneplay/raw/main/libs_oneplay_23_12_2022.zip"
