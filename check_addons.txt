@@ -1,2 +1,2 @@
 id="One.repo"
-url="https://github.com/OnePlayHD/OneRepo/raw/master/matrix/One.repo/One.repo-1.07.zip"
+url="https://github.com/zoreu/OneRepo/raw/master/matrix/One.repo/One.repo-1.08.zip"
